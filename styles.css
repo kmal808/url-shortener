@@ -13,10 +13,11 @@ body {
   font-size: 4rem;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: linear-gradient(yellow, blue);
+  background-image: linear-gradient(rgb(226, 133, 133), gray);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: fit-content;
+  width: auto;
 }
 
 input {
@@ -41,23 +42,30 @@ button:hover {
   cursor: pointer;
   color: white;
 }
+h1 {
+  margin: 100px 0 100px 0;
+}
 
 h2 {
-  margin-bottom: 80px;
+  margin: 100px 0 200px 0;
+}
+
+h3 {
+  margin: 100px 0 100px 0;
 }
 
 h4 {
-  margin-bottom: 100px;
+  margin: 100px 0 100px 0;
 }
 
 .paragraph {
-  font-size: 2rem;
+  font-size: 5rem;
   border: 2px solid black;
   border-radius: 15px;
   width: 50%;
   height: auto;
   margin: auto;
-  background-image: linear-gradient(black, gray);
+  background-image: linear-gradient(to top, rgb(94, 54, 54), rgb(182, 95, 15));
   color: white;
   padding: 18px;
 }
