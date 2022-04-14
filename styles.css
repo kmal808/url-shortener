@@ -21,8 +21,8 @@ body {
 }
 
 input {
-  width: 20%;
-  height: 5%;
+  width: 35%;
+  height: 50px;
   background-color: lightgray;
   border: none;
   font-size: 2rem;
@@ -30,8 +30,8 @@ input {
 }
 
 button {
-  width: 7%;
-  height: 5%;
+  width: 15%;
+  height: 50px;
   background-color: gray;
   color: white;
   border: none;
@@ -62,10 +62,11 @@ h4 {
   font-size: 5rem;
   border: 2px solid black;
   border-radius: 15px;
-  width: 50%;
+  width: 60%;
   height: auto;
   margin: auto;
-  background-image: linear-gradient(to top, rgb(94, 54, 54), rgb(182, 95, 15));
+  margin-bottom: 50px;
+  background-color: rgb(110, 71, 71);
   color: white;
   padding: 18px;
 }
