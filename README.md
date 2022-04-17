@@ -6,4 +6,6 @@ Enter the long link 🔗 into the input form, and get a Shorty 🩳 link 🔗 in
 
 Making long links 🔗 easier to remember, and sharing links 🔗 easier to look at. </br>
 
+Check it out at the link 🔗 below: 
+
 https://kmal808.github.io/url-shortener/
