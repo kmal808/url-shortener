@@ -13,10 +13,7 @@ body {
   font-size: 4rem;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: linear-gradient(rgb(226, 133, 133), gray);
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: fit-content;
+  height: auto;
   width: auto;
 }
 
@@ -32,15 +29,16 @@ input {
 button {
   width: 15%;
   height: 50px;
-  background-color: gray;
-  color: white;
+  background-color: rgb(182, 195, 207);
+  color: black;
   border: none;
+  font-size: 1.75rem;
 }
 
 button:hover {
-  background-color: rgb(182, 195, 207);
+  background-color: gray;
   cursor: pointer;
-  color: white;
+  color: whitesmoke;
 }
 h1 {
   margin: 100px 0 100px 0;
@@ -63,12 +61,29 @@ h4 {
   border: 2px solid black;
   border-radius: 15px;
   width: 60%;
-  height: auto;
-  margin: auto;
   margin-bottom: 50px;
   background-color: rgb(110, 71, 71);
   color: rgb(255, 255, 255);
   padding: 18px;
+}
+
+.background--custom {
+  background: linear-gradient(90deg, #6785a7, #64dffd, #abae32);
+  background-size: 300% 300%;
+  animation: gradient 4s alternate infinite;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0%;
+  }
+  100% {
+    background-position: 100%;
+  }
 }
 
 
