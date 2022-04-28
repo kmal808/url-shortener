@@ -41,19 +41,26 @@ button:hover {
   color: whitesmoke;
 }
 h1 {
-  margin: 100px 0 100px 0;
+  margin: 50px 0 50px 0;
 }
 
 h2 {
-  margin: 100px 0 200px 0;
+  margin: 50px 0 100px 0;
 }
 
 h3 {
-  margin: 100px 0 100px 0;
+  margin: 50px 0 50px 0;
 }
 
 h4 {
-  margin: 100px 0 100px 0;
+  height: 5rem;
+  width: 60%;
+  margin: 50px 0 50px 0;
+  border: 2px black solid;
+  border-radius: 15px;
+  margin: 0 20% 0 20%;
+  background-color: #6785a7;
+  color: white;
 }
 
 .paragraph {
