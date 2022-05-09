@@ -58,8 +58,9 @@ h4 {
   border: 2px black solid;
   border-radius: 15px;
   margin: 0 25% 0 25%;
-  background-color: #89a6c8;
+  background-color: #b7bcc2;
   color: rgb(34, 36, 42);
+  padding: .5rem;
 }
 
 .paragraph {
