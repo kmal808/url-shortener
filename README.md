@@ -6,9 +6,13 @@ Enter the long link 🔗 into the form, and get a Shorty 🩳 link 🔗 in retur
 
 Making long links 🔗 easier to remember, and sharing links 🔗 easier to look 👀 at</br>
 
-Trade your long links for a shorty here 👇
+Here 👇
 
-https://kmal808.github.io/url-shortener/ </br>
+https://jaemes.bond </br>
+
+Or 🙅🏼‍♂️ Here ⬇
+
+https://getshorty.bobbynooodles.com
 
 WIP 🏗️ </br>
 
