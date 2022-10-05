@@ -1,98 +1,96 @@
 html {
-  font-size: 62.5%;
-  box-sizing: border-box;
+	font-size: 62.5%;
+	box-sizing: border-box;
 }
 
-*, *::before, *::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: inherit;
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
 }
 
 body {
-  font-size: 4rem;
-  text-align: center;
-  font-family: monospace;
-  height: auto;
-  width: auto;
+	font-size: 4rem;
+	text-align: center;
+	font-family: monospace;
+	height: auto;
+	width: auto;
 }
 
 input {
-  width: 35%;
-  height: 50px;
-  background-color: lightgray;
-  border: none;
-  font-size: 2rem;
-  text-align: center;
+	width: 35%;
+	height: 50px;
+	background-color: lightgray;
+	border: none;
+	font-size: 2rem;
+	text-align: center;
 }
 
 button {
-  width: 15%;
-  height: 50px;
-  background-color: rgb(182, 195, 207);
-  color: black;
-  border: none;
-  font-size: 1.75rem;
+	width: 15%;
+	height: 50px;
+	background-color: rgb(182, 195, 207);
+	color: black;
+	border: none;
+	font-size: 1.75rem;
 }
 
 button:hover {
-  background-color: gray;
-  cursor: pointer;
-  color: whitesmoke;
+	background-color: black;
+	cursor: pointer;
+	color: rgb(182, 195, 207);
 }
 h1 {
-  margin: 50px 0 50px 0;
+	margin: 50px 0 50px 0;
 }
 
 h2 {
-  margin: 50px 0 50px 0;
+	margin: 50px 0 50px 0;
 }
 
 h3 {
-  margin: 50px 0 50px 0;
+	margin: 50px 0 50px 0;
 }
 
 h4 {
-  height: 5rem;
-  width: 50%;
-  border: 2px black solid;
-  border-radius: 15px;
-  margin: 0 25% 0 25%;
-  background-color: #b7bcc2;
-  color: rgb(34, 36, 42);
-  padding: .5rem;
+	height: 5rem;
+	width: 50%;
+	border: 2px black solid;
+	border-radius: 15px;
+	margin: 0 25% 0 25%;
+	background-color: #b7bcc2;
+	color: rgb(34, 36, 42);
+	padding: 0.5rem;
 }
 
 .paragraph {
-  font-size: 5rem;
-  border: 2px solid black;
-  border-radius: 15px;
-  width: 60%;
-  margin-bottom: 50px;
-  background-color: rgb(110, 71, 71);
-  color: rgb(255, 255, 255);
-  padding: 18px;
+	font-size: 5rem;
+	border: 2px solid black;
+	border-radius: 15px;
+	width: 60%;
+	margin-bottom: 50px;
+	background-color: rgb(110, 71, 71);
+	color: rgb(255, 255, 255);
+	padding: 18px;
 }
 
 .background--custom {
-  background: linear-gradient(90deg, #6785a7, #64dffd, #abae32);
-  background-size: 300% 300%;
-  animation: gradient 4s alternate infinite;
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
+	background: linear-gradient(90deg, #6785a7, #64dffd, #abae32);
+	background-size: 300% 300%;
+	animation: gradient 4s alternate infinite;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
 }
 @keyframes gradient {
-  0% {
-    background-position: 0%;
-  }
-  100% {
-    background-position: 100%;
-  }
+	0% {
+		background-position: 0%;
+	}
+	100% {
+		background-position: 100%;
+	}
 }
-
-
-
-
