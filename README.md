@@ -6,13 +6,13 @@ Enter the long link 🔗 into the form, and get a Shorty 🩳 link 🔗 in retur
 
 Making long links 🔗 easier to remember, and sharing links 🔗 easier to look 👀 at</br>
 
-Here 👇
+Check it out here 👇
 
 https://jaemes.bond </br>
 
 Or 🙅🏼‍♂️ Here ⬇
 
-https://getshorty.bobbynooodles.com
+https://getshorty.bobbynoodles.com
 
 WIP 🏗️ </br>
 
